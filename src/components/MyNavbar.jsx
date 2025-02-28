@@ -30,7 +30,7 @@ const styles={
         justifyContent:'space-between',
         alignItems:'center',
         padding:'10px',
-        backgroundColor:'rgb(70,255,70)',
+        backgroundColor:'rgb(100,255,100)',
     },
     sideNav:{
         fontFamily:'Impact',
